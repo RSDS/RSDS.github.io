@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1129542-609b-452c-aab3-61a201811b9c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/2019/09/05/hello-world/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/2019/09/05/vmware安装ubuntu/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/2019/09/05/使用hexo部署在github搭建自己的博客/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/2019/09/05/虚拟机快速部署spark环境/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/archives/2019/09/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/archives/2019/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/archives/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/css/comment.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/css/fashion.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/css/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/css/fonts/athemes-glyphs.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/css/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/css/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/css/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/css/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/css/glyphs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/css/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/css/images/pose01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/css/images/rocket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/css/rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/fancybox/blank.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/fancybox/fancybox_loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/fancybox/fancybox_loading@2x.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/fancybox/fancybox_overlay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/fancybox/fancybox_sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/fancybox/fancybox_sprite@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/fancybox/helpers/fancybox_buttons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/fancybox/helpers/jquery.fancybox-buttons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/fancybox/helpers/jquery.fancybox-buttons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/fancybox/helpers/jquery.fancybox-media.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/fancybox/helpers/jquery.fancybox-thumbs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/fancybox/helpers/jquery.fancybox-thumbs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/fancybox/jquery.fancybox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/fancybox/jquery.fancybox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/fancybox/jquery.fancybox.pack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/images/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/images/favicon-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/.deploy_git/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/js/insight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/js/jquery-3.1.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/js/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/js/totop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/clipboard/clipboard.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/font-awesome/css/all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/font-awesome/webfonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/font-awesome/webfonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/font-awesome/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/font-awesome/webfonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/font-awesome/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/font-awesome/webfonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/font-awesome/webfonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/font-awesome/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/font-awesome/webfonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/font-awesome/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/font-awesome/webfonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/font-awesome/webfonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/font-awesome/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/font-awesome/webfonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/font-awesome/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/justified-gallery/css/justifiedGallery.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/justified-gallery/js/jquery.justifiedGallery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/meslo-LG/MesloLGL-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/meslo-LG/MesloLGL-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/meslo-LG/MesloLGL-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/meslo-LG/MesloLGL-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/meslo-LG/MesloLGM-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/meslo-LG/MesloLGM-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/meslo-LG/MesloLGM-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/meslo-LG/MesloLGM-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/meslo-LG/MesloLGS-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/meslo-LG/MesloLGS-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/meslo-LG/MesloLGS-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/meslo-LG/MesloLGS-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/vazir-font/Vazir-Black.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/vazir-font/Vazir-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/vazir-font/Vazir-Black.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/vazir-font/Vazir-Black.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/vazir-font/Vazir-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/vazir-font/Vazir-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/vazir-font/Vazir-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/vazir-font/Vazir-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/vazir-font/Vazir-Light.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/vazir-font/Vazir-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/vazir-font/Vazir-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/vazir-font/Vazir-Light.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/vazir-font/Vazir-Medium.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/vazir-font/Vazir-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/vazir-font/Vazir-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/vazir-font/Vazir-Medium.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/vazir-font/Vazir-Thin.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/vazir-font/Vazir-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/vazir-font/Vazir-Thin.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/vazir-font/Vazir-Thin.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/vazir-font/Vazir.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/vazir-font/Vazir.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/vazir-font/Vazir.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/vazir-font/Vazir.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/lib/vazir-font/font-face.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/preview/browser-support.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/preview/code-theme-default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/preview/code-theme.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/preview/hipaper-preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/preview/logo-preview.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/preview/mobile-preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.deploy_git/preview/search-preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/blog/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/source/_posts/vmware安装ubuntu.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/source/_posts/使用hexo部署在github搭建自己的博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/source/_posts/使用hexo部署在github搭建自己的博客.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1QPKi44xMJBbRzzYMTt6O44aQqb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1129542-609b-452c-aab3-61a201811b9c" name="Default Changelist" comment="" />
+      <created>1567666914891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567666914891</updated>
+      <workItem from="1567666916305" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

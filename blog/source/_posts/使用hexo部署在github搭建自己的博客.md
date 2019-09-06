@@ -30,17 +30,20 @@ tags:
 
 
 ### 下载主题
-- 在[hexo主题官网](https://hexo.io/themes/)寻找适合自己的主题，进入该主题项目的github页面，此处选择
+- 在[hexo主题官网](https://hexo.io/themes/)寻找适合自己的主题，进入该主题项目的github页面，此处选择 hipaper 做示范
 - 在blog目录下，下载主题至themes文件夹下
   ``` bash
   git clone https://github.com/iTimeTraveler/hexo-theme-hipaper.git themes/hipaper
   ```
+- 更改配置：`_config.yml` 中，修改参数 `theme: hipaper`
 
 
 
 ### 写内容，发布
+``` bash
 hexo clean
 hexo generate   g
 hexo deploy     d
+```
 
 等待1分钟左右，即可在网页上看到最新的文章更改·········
